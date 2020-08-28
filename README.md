@@ -40,7 +40,7 @@ You should then be able to run `dotnet restore` in the root directory and then `
 
 You will need [Node.js](https://nodejs.org/en/download/) and to then confirm that you have [npm](https://www.npmjs.com/) installed.
 
-Run `npm start` from the client-app directory.
+Run `npm install` and then `npm start` from the client-app directory.
 
 ## Future Plans
 
