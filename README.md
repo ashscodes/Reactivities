@@ -34,7 +34,7 @@ To run in development mode:
     - `Cloudinary:ApiSecret` _Cloudinary API secret_
     - `Cloudinary:ApiKey` _Cloudinary API key_
 
-You should then be able to run `dotnet watch run` within the API directory.
+You should then be able to run `dotnet restore` in the root directory and then `dotnet watch run` within the API directory.
 
 ### Frontend
 
